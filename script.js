@@ -166,7 +166,7 @@ const swiper = new Swiper(".rokrSwiper", {
   },
 
   autoplay: {
-    delay: 3000,
+    delay: 15000,
     disableOnInteraction: false,
   },
 
