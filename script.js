@@ -165,10 +165,10 @@ const swiper = new Swiper(".rokrSwiper", {
     prevEl: ".swiper-button-prev",
   },
 
-  autoplay: {
-    delay: 15000,
-    disableOnInteraction: false,
-  },
+  // autoplay: {
+  //   delay: 15000,
+  //   disableOnInteraction: false,
+  // },
 
   on: {
     slideChange: function () {
